@@ -1,13 +1,12 @@
 /*
-* File: sfo_09_implement_a_queue_using_two_stacks_m1.java
-* Date: 2022-08-30
-* Author: xitie2000
-* Url: https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+ * @FilePath: sfo_09_implement_a_queue_using_two_stacks_m1.java
+* @Author: xitie2000
+* @Date: 2022-08-30
+* @Url: https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
 */
 
 package sfo_09_implement_a_queue_using_two_stacks_m1;
 
-import include.*;
 import java.util.*;
 
 // ===== Solution Code =====
@@ -32,7 +31,7 @@ class CQueue {
     }
 }
 
-public class sfo_09_implement_a_queue_using_two_stacks_s1 {
+public class sfo_09_implement_a_queue_using_two_stacks_m1 {
     public static void main(String[] args) {
         // ====== Driver Code ======
         List<Integer> res = new ArrayList<>();

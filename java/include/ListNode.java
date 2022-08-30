@@ -1,6 +1,11 @@
+/*
+ * @FilePath: ListNode.java
+ * @Author: xitie2000
+ * @Date: 2022-08-30 04:27:02
+ * @Url: 
+ */
 package include;
 
-import java.util.List;
 
 /**
  * Definition for a singly-linked list node
