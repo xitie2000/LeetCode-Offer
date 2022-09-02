@@ -1,8 +1,8 @@
 /*
  * @FilePath: sfo_09_implement_a_queue_using_two_stacks_m1.java
-* @Author: xitie2000
-* @Date: 2022-08-30
-* @Url: https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
+ * @Author: xitie2000
+ * @Date: 2022-08-30
+ * @Url: https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
 */
 
 package sfo_09_implement_a_queue_using_two_stacks_m1;
